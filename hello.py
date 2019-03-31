@@ -3,3 +3,5 @@ def kj():
 
 def hit():
   print("My name is Karina Jangir.")
+  
+hit()
